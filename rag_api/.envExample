@@ -1,0 +1,7 @@
+GOOGLE_API_KEY=AIzaSyA3iRtnin0xdH5MutIReMLznD7GfoNTdSg
+
+EMBEDDING_MODEL=models/gemini-embedding-001
+GEN_MODEL=gemini-2.5-flash
+PERSIST_DIR=./data/chroma_menu_db_v2
+PDF_PATH=./data/menu.pdf
+K_RETRIEVAL=5
